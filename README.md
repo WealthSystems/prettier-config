@@ -1,6 +1,6 @@
 # @WealthSystems/prettier-config
 
-The [Prettier](https://prettier.io) shared configuration for Wealth Systems' Javascript projects.
+The [Prettier](https://prettier.io) shared configuration for Wealth Systems' JavaScript projects.
 
 ## Requirements
 
@@ -28,8 +28,6 @@ And add in your `package.json`:
 ```
 
 If you don't want to use `package.json` or want to extend this configuratin, a guide is available [here](https://prettier.io/docs/en/configuration.html#sharing-configurations).
-
-
 
 ## Changelog
 
