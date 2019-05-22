@@ -15,7 +15,7 @@ Install Prettier and this package:
 npm i --save-dev @wealthsystems/prettier-config prettier
 
 // yarn
-yarn add @wealthsystems/prettier-config prettier
+yarn add --dev @wealthsystems/prettier-config prettier
 ```
 
 And add in your `package.json`:
